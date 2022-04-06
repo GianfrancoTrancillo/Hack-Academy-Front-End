@@ -1,0 +1,13 @@
+body {
+  background-color: gray;
+  margin: 0;
+}
+img {
+  width: 25px;
+}
+div {
+  border: 10px solid orangered;
+  background-color: white;
+  padding: 10px 25px 10px 10px;
+  margin: 0 900px 30px 0;
+}
