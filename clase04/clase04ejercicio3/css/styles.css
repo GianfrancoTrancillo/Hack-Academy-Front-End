@@ -1,0 +1,26 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+h1 {
+  background-color: orange;
+  text-align: center;
+  color: aliceblue;
+  padding: 40px;
+  font-size: 20px;
+}
+
+.naranjas-adentro {
+  height: 290px;
+  width: 157px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.dos-grandes {
+  height: 299px;
+}
